@@ -1,2 +1,7 @@
 # Complete-DApp---Solidity-React---Blockchain-Development
-Complete DApp - Solidity &amp; React - Blockchain Development, by Packt Publishing
+DApp (decentralized application) operates on a blockchain network. DApps are decentralized and rely on a distributed network of computers rather than a central server. They use smart contracts for automation and tokens for transactions and are open source, promoting transparency.
+
+This course is designed to equip us with the essential skills and knowledge needed to become proficient in building decentralized applications (DApps) on the blockchain. Starting with an introduction to blockchain technology and decentralization, the course progresses through hands-on tutorials covering Solidity, the Ethereum blockchain, smart contracts, and front-end development using React. Students will learn to create, compile, and deploy smart contracts, build DApp user interfaces, and interact with the Ethereum blockchain. The course delves into advanced topics such as token creation, NFT marketplaces, and DeFi concepts. With practical exercises and projects like building a voting system, practical experience in DApp development, and optional sections on UI animation and React and state, learners will gain opportunities for further skill enhancement.
+
+By the end of this course, we will have a robust understanding of DApp development and the ability to build and deploy their DApp. The course imparts essential technical skills and emphasizes real-world project structuring, understanding DApp development, and preparing us for freelancing opportunities and blockchain careers.
+
